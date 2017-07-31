@@ -31,7 +31,7 @@
     root.biu = biu;
   }
 
-  biu.VERSION = '0.0.2';
+  biu.VERSION = '0.0.4';
 
   biu.isArray = Array.isArray || function(obj) {
     return Object.prototype.toString.call(obj) === '[object Array]';

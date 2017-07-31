@@ -16,3 +16,4 @@ import biu from '17biu'
 let arr = [1,2,{'a':3},7]
 biu.isArray(arr)
 ```
+github:[https://github.com/proshuai/biu]
