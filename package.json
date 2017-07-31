@@ -1,0 +1,14 @@
+{
+  "name": "17biu",
+  "version": "0.0.2",
+  "description": "it is my library for js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "17biu",
+  "license": "ISC"
+}
