@@ -1,7 +1,8 @@
 # biu
 Biu.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (isArray, isFunction) without extending any core JavaScript objects.
-
+```javascript
 npm install 17biu --save-dev
+```
 when you use es5, you can use it like this:
 ```javascript
 <script type='text/javascript' src='/17biu/index.js'></script>
